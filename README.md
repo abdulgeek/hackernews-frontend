@@ -10,10 +10,10 @@ This frontend application is built using Next.js. It interacts with the backend 
 ## Project Structure
 
 - `pages/` - Contains Next.js pages.
-  - `index.js` - The homepage that displays the latest posts.
+  - `index.tsx` - The homepage that displays the latest posts.
 - `components/` - Reusable components.
-  - `Header.js` - Header component.
-  - `Post.js` - Component to display individual posts.
+  - `Header.tsx` - Header component.
+  - `Post.tsx` - Component to display individual posts.
 - `public/` - Static files like images and favicon.
 - `styles/` - Global styles and CSS modules.
 
